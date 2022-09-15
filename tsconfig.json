@@ -1,0 +1,11 @@
+{
+    "ts-node": {
+        "transpileOnly": true,
+        "files": true
+    },
+
+    "compilerOptions": {
+        "target": "ESNext",
+        "moduleResolution": "NodeNext"
+    }
+}
